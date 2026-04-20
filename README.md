@@ -4,11 +4,20 @@
 
 ---
 ## 🔹 About Me
-- 💻 Passionate Software Developer focused on Java & Data Structures  
-- 🧠 Strong interest in problem-solving and logical thinking  
-- 🌱 Continuously improving skills through LeetCode and real-world projects  
-- 🌐 Exploring Web Development and building user-friendly applications  
-- 🚀 Dedicated to learning, building, and growing in the tech field  
+- 💻 Aspiring Software Developer with strong interest in problem solving  
+- 🌱 Currently learning Data Structures & Algorithms (Java)  
+- 🌐 Building responsive web applications using HTML, CSS & JavaScript  
+- 🚀 Actively solving problems on LeetCode to improve coding skills  
+- 🎯 Focused on becoming industry-ready and cracking top tech roles  
+
+---
+
+## 🌐 Connect With Me
+
+[GitHub](https://github.com/bhavanabhavu22) • 
+[LinkedIn](https://www.linkedin.com/in/kbhavana123) • 
+[LeetCode](https://leetcode.com/u/q3Y1XDw5cE/) • 
+[Email](mailto:bhavanakallibandla@gmail.com)
 ---
 ## 🔹 Tech Stack
 ### 👩‍💻 Languages
