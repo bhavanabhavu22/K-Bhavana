@@ -46,14 +46,4 @@
 
 ---
 
-## 🔹 GitHub Stats
-![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavanabhavu22&show_icons=true&theme=radical)
-
----
-
-## 🔹 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhavanabhavu22&theme=radical)
-
----
-
 ⭐ From [Bhavana](https://github.com/bhavanabhavu22)
