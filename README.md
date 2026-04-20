@@ -14,7 +14,7 @@
 
 ## 🌐 Connect With Me
 
-[GitHub](https://github.com/bhavanabhavu22) • 
+[GitHub](https://github.com/bhavanabhavu22/bhavanabhavu22) • 
 [LinkedIn](https://www.linkedin.com/in/kbhavana123) • 
 [LeetCode](https://leetcode.com/u/q3Y1XDw5cE/) • 
 [Email](mailto:bhavanakallibandla@gmail.com)
@@ -44,6 +44,6 @@
 ## 🔹 Coding Profiles
 - 🔗 LeetCode: https://leetcode.com/u/q3Y1XDw5cE/  
 - 🔗 LinkedIn: https://www.linkedin.com/in/kbhavana123/?skipRedirect=true  
-- 🔗 GitHub: https://github.com/bhavanabhavu22  
+- 🔗 GitHub:https://github.com/bhavanabhavu22/bhavanabhavu22 
 ---
 ⭐ From [Bhavana](https://github.com/bhavanabhavu22)
